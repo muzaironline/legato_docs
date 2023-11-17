@@ -1,0 +1,4008 @@
+Uri: https://code.jquery.com/jquery-2.2.3.min.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\jquery-2.2.3.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.11.4/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\ui\1.11.4\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://datatracker.ietf.org/doc/pdf/rfc3550.pdf
+File Name: C:\Downloaded Web Sites\docs.legato.io\doc\pdf\rfc3550.pdf
+Content Type: application/pdf
+
+Uri: https://datatracker.ietf.org/doc/pdf/rfc3551.pdf
+File Name: C:\Downloaded Web Sites\docs.legato.io\doc\pdf\rfc3551.pdf
+Content Type: application/pdf
+
+Uri: https://docs.legato.io/
+File Name: C:\Downloaded Web Sites\docs.legato.io\index.htm
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\index.htm
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutDocsGlossary.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutDocsGlossary.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutLegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutLegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutLegatoContributing.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutLegatoContributing.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutLicenses.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutLicenses.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutLicensesMPLv2.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutLicensesMPLv2.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutLicensesOSL.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutLicensesOSL.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutReleaseNotes.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutReleaseNotes.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/aboutSupport.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\aboutSupport.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/AF_Architecture.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\AF_Architecture.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/apiFiles.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\apiFiles.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/apiFilesC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\apiFilesC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/apiFilesSyntax.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\apiFilesSyntax.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/apiGuidesIndex.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\apiGuidesIndex.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/apiGuidesMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\apiGuidesMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/AR755x_Ext_AudioBlockDiagram_Legato.jpg
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\AR755x_Ext_AudioBlockDiagram_Legato.jpg
+Content Type: image/jpeg
+
+Uri: https://docs.legato.io/latest/atCommandsParserBridge.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\atCommandsParserBridge.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/AudioConnector.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\AudioConnector.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/AudioOverIP.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\AudioOverIP.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/avConfigure.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avConfigure.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/avData.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avData.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/avExchangeData-Command.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avExchangeData-Command.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/avExchangeData-Read2.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avExchangeData-Read2.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/avExchangeData-resources.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avExchangeData-resources.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/avExchangeData-Write2.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avExchangeData-Write2.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/avExchangeData.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avExchangeData.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/avInstallUpload.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avInstallUpload.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/avMigration.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avMigration.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/avRegister.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\avRegister.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuild.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuild.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuildLegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildLegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuildLegato_InstallOverview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildLegato_InstallOverview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/basicBuildMake.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildMake.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuildToolchain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildToolchain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuildUninstall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildUninstall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicBuildUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicBuildUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicTarget.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicTarget.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicTargetConfigETH.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicTargetConfigETH.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicTargetConfigUSB.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicTargetConfigUSB.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicTargetDevMode.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicTargetDevMode.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/basicTargetModem.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\basicTargetModem.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildAppsMain-LegatoOverview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildAppsMain-LegatoOverview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/buildAppsMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildAppsMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildPlatformMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildPlatformMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsifgen.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsifgen.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsmk.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsmk.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsmkapp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsmkapp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsmkcomp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsmkcomp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsmkexe.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsmkexe.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/buildToolsmksys.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\buildToolsmksys.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/ccodingStdsComplexity.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\ccodingStdsComplexity.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/ccodingStdsFormat.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\ccodingStdsFormat.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/ccodingStdsMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\ccodingStdsMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/ccodingStdsSecurity.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\ccodingStdsSecurity.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/common__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\common__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/concepts.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\concepts.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsComponents.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsComponents.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsConfig.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsConfig.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsEDM.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsEDM.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsEnvironment.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsEnvironment.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsEvents.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsEvents.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsInterfaces.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsInterfaces.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsInternationalization.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsInternationalization.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsIPC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsIPC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsKernelModule.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsKernelModule.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsLogs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsLogs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsPwrMgmt.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsPwrMgmt.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsPwrMgmt_wakeupSources.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsPwrMgmt_wakeupSources.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/conceptsRPC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsRPC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsRuntimeArch.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsRuntimeArch.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsRuntimeArch_LayeredArchitecture.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsRuntimeArch_LayeredArchitecture.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/conceptsSecurity.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsSecurity.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsSecuritySandboxConfigSample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsSecuritySandboxConfigSample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsSecuritySandboxLimits.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsSecuritySandboxLimits.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsSecuritySandboxOverview.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsSecuritySandboxOverview.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsSecuritySmack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsSecuritySmack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/conceptsUpdates.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\conceptsUpdates.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/confLeaf.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\confLeaf.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/confLeafSrc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\confLeafSrc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/confLeafWS.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\confLeafWS.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/confLeaf_Install.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\confLeaf_Install.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_adc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_adc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_antenna.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_antenna.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_APIs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_APIs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_appCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_appCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_appInfo.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_appInfo.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_args.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_args.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_atClient.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_atClient.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_atomFile.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_atomFile.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_atomic.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_atomic.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_atServer.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_atServer.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_audio.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_audio.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_audioCapturePlayback.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_audioCapturePlayback.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_audiodtmf.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_audiodtmf.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_audioMcc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_audioMcc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_backtrace.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_backtrace.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_base64.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_base64.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_basics.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_basics.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_bootReason.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_bootReason.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_cdata.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_cdata.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_clock.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_clock.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_config.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_config.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_configAdmin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_configAdmin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_crc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_crc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_dataConnectionServiceSample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_dataConnectionServiceSample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_dir.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_dir.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_doublyLinkedList.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_doublyLinkedList.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_ecall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_ecall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_ecallWPromptSample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_ecallWPromptSample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_ecallWVoiceSample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_ecallWVoiceSample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_eventLoop.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_eventLoop.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_fd.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_fd.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_fdMonitor.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_fdMonitor.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_flash.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_flash.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_flock.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_flock.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_framework.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_framework.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_fs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_fs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_fwupdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_fwupdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnss.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnss.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeAcquisitionRate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeAcquisitionRate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeConstellation.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeConstellation.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeEnableDisable.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeEnableDisable.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeMinElevation.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeMinElevation.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeNmeaSentences.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeNmeaSentences.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodePosition.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodePosition.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeReStart.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeReStart.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeStartStop.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeStartStop.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gnssSampleCodeXtra.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gnssSampleCodeXtra.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gpio.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gpio.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_gpioCfg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_gpioCfg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_hashmap.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_hashmap.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_hex.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_hex.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks_aesCbc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks_aesCbc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks_aesCmac.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks_aesCmac.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks_ecc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks_ecc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks_hmac.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks_hmac.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_iks_rsa.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_iks_rsa.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_info.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_info.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_ips.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_ips.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_json.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_json.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_kernelModule.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_kernelModule.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_avc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_avc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_avdata.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_avdata.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_cellnet.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_cellnet.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_clkSync.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_clkSync.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_data.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_data.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_dcs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_dcs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_dualsys.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_dualsys.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_instStat.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_instStat.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_net.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_net.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_voicecall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_voicecall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_wifi_ap.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_wifi_ap.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_le_wifi_client.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_le_wifi_client.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_limit.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_limit.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_logging.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_logging.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_lpt.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_lpt.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mcc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mcc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mccTest.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mccTest.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mdc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mdc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mdcDataProfiles.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mdcDataProfiles.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mdcDataSessions.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mdcDataSessions.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mdcDataStatistics.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mdcDataStatistics.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_memory.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_memory.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_messaging.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_messaging.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcBandCapabilities.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcBandCapabilities.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcGetCurrentNetwork.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcGetCurrentNetwork.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcGetService.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcGetService.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcLocationinformation.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcLocationinformation.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcNeighborCells.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcNeighborCells.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcNetworkRegistration.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcNetworkRegistration.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcNetworkScan.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcNetworkScan.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcPciScan.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcPciScan.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcQuality.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcQuality.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcRadioConfigurationPreferences.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcRadioConfigurationPreferences.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcRadioPower.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcRadioPower.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mrcRAT.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mrcRAT.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_mutex.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_mutex.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_pack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_pack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_path.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_path.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_pathIter.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_pathIter.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_pm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_pm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_port.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_port.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_pos.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_pos.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_posCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_posCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_posSampleCodeFixOnDemand.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_posSampleCodeFixOnDemand.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_posSampleCodeNavigation.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_posSampleCodeNavigation.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_print.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_print.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_process.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_process.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_rand.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_rand.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_redBlackTree.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_redBlackTree.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_riPin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_riPin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_rsim.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_rsim.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_rsimTest.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_rsimTest.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_rtc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_rtc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_safeRef.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_safeRef.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_secStore.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_secStore.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_secStoreAdmin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_secStoreAdmin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_semaphore.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_semaphore.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_signals.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_signals.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_sim.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_sim.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestApdu.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestApdu.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestAuthentication.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestAuthentication.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestIdentification.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestIdentification.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestProfileSwitch.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestProfileSwitch.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestSelect.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestSelect.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestSimToolkit.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestSimToolkit.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_simTestStates.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_simTestStates.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_singlyLinkedList.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_singlyLinkedList.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_sms.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_sms.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_smsCbSample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_smsCbSample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_smsInbox.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_smsInbox.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_smsSampleMO.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_smsSampleMO.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_smsSampleMT.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_smsSampleMT.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_spi.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_spi.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_streamMedia.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_streamMedia.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_temp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_temp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_test.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_test.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_threading.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_threading.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_timer.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_timer.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_tty.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_tty.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_ulpm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_ulpm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_update.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_update.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_updateCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_updateCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_utf8.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_utf8.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/c_wdog.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\c_wdog.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFiles.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFiles.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFilesAdef.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFilesAdef.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFilesCdef.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFilesCdef.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFilesFormat.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFilesFormat.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFilesMdef.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFilesMdef.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defFilesSdef.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defFilesSdef.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/defn__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\defn__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/deprecated.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\deprecated.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/example__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\example__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/experimentalMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\experimentalMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStarted-Overview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStarted-Overview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/getStarted-Update.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStarted-Update.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/getStarted.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStarted.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedApps-Overview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedApps-Overview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/getStartedApps.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedApps.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedHW.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedHW.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedIPC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedIPC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedKO.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedKO.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedRPC-Overview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedRPC-Overview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/getStartedRPC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedRPC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedRPCConfigurationTool.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedRPCConfigurationTool.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedSystems.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedSystems.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/getStartedUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\getStartedUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/GNSS_stateMachine.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\GNSS_stateMachine.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/green_dot.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\green_dot.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/group__le__adc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__adc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__antenna.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__antenna.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__appCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__appCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__appInfo.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__appInfo.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__atClient.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__atClient.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__atDefs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__atDefs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__atServer.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__atServer.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__audio.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__audio.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__avc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__avc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__avdata.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__avdata.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__bootReason.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__bootReason.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__cellnet.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__cellnet.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__cfg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__cfg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__cfgAdmin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__cfgAdmin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__clkSync.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__clkSync.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__data.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__data.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__dcs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__dcs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__dualsys.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__dualsys.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__ecall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__ecall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__flash.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__flash.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__framework.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__framework.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__fwupdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__fwupdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__gnss.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__gnss.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__gpio.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__gpio.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__gpioCfg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__gpioCfg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__aesCbc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__aesCbc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__aesCmac.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__aesCmac.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__aesGcm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__aesGcm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__aesMilenage.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__aesMilenage.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__ecc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__ecc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__hmac.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__hmac.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__iks__rsa.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__iks__rsa.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__info.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__info.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__instStat.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__instStat.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__ips.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__ips.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__kernelModule.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__kernelModule.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__limit.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__limit.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__lpt.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__lpt.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__mcc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__mcc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__mdc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__mdc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__mdmDefs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__mdmDefs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__mrc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__mrc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__net.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__net.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__pm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__pm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__port.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__port.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__pos.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__pos.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__posCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__posCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__riPin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__riPin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__rsim.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__rsim.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__rtc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__rtc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__secStore.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__secStore.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__sim.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__sim.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__sms.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__sms.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__smsInbox1.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__smsInbox1.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__spi.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__spi.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__temp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__temp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__ulpm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__ulpm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__update.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__update.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__updateCtrl.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__updateCtrl.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__voicecall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__voicecall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__wdog.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__wdog.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__wifiAp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__wifiAp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__wifiClient.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__wifiClient.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__le__wifiDefs.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__le__wifiDefs.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__secStoreAdmin.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__secStoreAdmin.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/group__streamMedia.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\group__streamMedia.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToAdd3rdParty.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToAdd3rdParty.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToDCSMigration.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToDCSMigration.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToDebug.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToDebug.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToDebugGDB.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToDebugGDB.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToGNSS.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToGNSS.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToKMod.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToKMod.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToKModBMI160.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToKModBMI160.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToKModSPI.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToKModSPI.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToKModTIwifi.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToKModTIwifi.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToLoginAuthentication.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToLoginAuthentication.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToOptimizeIpcRam.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToOptimizeIpcRam.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToPortLegacyC.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToPortLegacyC.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToPortLegacyGen.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToPortLegacyGen.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToSandboxHelper.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToSandboxHelper.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToSetUserTimebase.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToSetUserTimebase.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/howToSoftwareUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\howToSoftwareUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/kconfigOptions.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\kconfigOptions.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoAtServices.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoAtServices.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoDaemons.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoDaemons.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoLogo.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoLogo.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/LegatoOverviewTarget.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\LegatoOverviewTarget.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServices.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServices.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesAirVantage.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesAirVantage.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesConfigTree.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesConfigTree.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesDCS.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesDCS.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesDCSOverview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesDCSOverview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/LegatoServicesFlow.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\LegatoServicesFlow.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModem.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModem.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_AudioEx.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_AudioEx.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_AudioExMic.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_AudioExMic.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_EGFail.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_EGFail.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_Interface.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_Interface.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_Intro.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_Intro.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_PECon.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_PECon.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_PEFail.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_PEFail.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesModemECall_PSAPServer.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesModemECall_PSAPServer.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/legatoServicesPositioning.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesPositioning.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesPowerMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesPowerMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesSecStoreMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesSecStoreMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesSMS.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesSMS.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesSupervisor.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesSupervisor.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesUpdatePack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesUpdatePack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesVoiceCall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesVoiceCall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legatoServicesWiFi.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legatoServicesWiFi.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legato_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legato_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legato_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legato_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legato__linux_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legato__linux_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/legato__linux_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\legato__linux_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le_fwupdate_DualSys_Summary.svg
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_fwupdate_DualSys_Summary.svg
+Content Type: image/svg+xml
+
+Uri: https://docs.legato.io/latest/le_fwupdate_Install.svg
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_fwupdate_Install.svg
+Content Type: image/svg+xml
+
+Uri: https://docs.legato.io/latest/le_fwupdate_InstallAndMarkGood.svg
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_fwupdate_InstallAndMarkGood.svg
+Content Type: image/svg+xml
+
+Uri: https://docs.legato.io/latest/le_fwupdate_MarkGood.svg
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_fwupdate_MarkGood.svg
+Content Type: image/svg+xml
+
+Uri: https://docs.legato.io/latest/le_rsim_Overview.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_rsim_Overview.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/le_rtc.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le_rtc.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/le__adc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__adc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__adc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__adc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__adc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__adc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__adc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__adc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__antenna__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__antenna__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__antenna__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__antenna__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__antenna__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__antenna__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__antenna__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__antenna__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__apiFeatures_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__apiFeatures_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__apiFeatures_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__apiFeatures_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appCtrl__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appCtrl__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appCtrl__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appCtrl__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appCtrl__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appCtrl__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appCtrl__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appCtrl__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appInfo__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appInfo__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appInfo__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appInfo__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appInfo__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appInfo__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__appInfo__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__appInfo__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__args_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__args_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__args_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__args_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atClient__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atClient__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atClient__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atClient__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atClient__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atClient__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atClient__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atClient__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atDefs__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atDefs__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atDefs__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atDefs__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atDefs__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atDefs__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atDefs__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atDefs__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atomFile_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atomFile_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atomFile_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atomFile_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atomic_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atomic_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atServer__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atServer__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atServer__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atServer__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atServer__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atServer__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__atServer__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__atServer__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__audio__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__audio__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__audio__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__audio__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__audio__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__audio__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__audio__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__audio__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avdata__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avdata__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avdata__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avdata__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avdata__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avdata__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__avdata__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__avdata__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__backtrace_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__backtrace_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__backtrace_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__backtrace_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__base64_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__base64_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__base64_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__base64_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__basics_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__basics_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__basics_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__basics_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__bootReason__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__bootReason__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__bootReason__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__bootReason__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__bootReason__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__bootReason__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__bootReason__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__bootReason__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cdata_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cdata_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cdata_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cdata_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cellnet__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cellnet__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cellnet__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cellnet__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cellnet__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cellnet__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cellnet__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cellnet__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfgAdmin__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfgAdmin__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfgAdmin__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfgAdmin__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfgAdmin__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfgAdmin__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfgAdmin__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfgAdmin__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfg__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfg__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfg__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfg__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfg__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfg__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__cfg__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__cfg__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clkSync__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clkSync__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clkSync__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clkSync__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clkSync__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clkSync__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clkSync__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clkSync__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clock_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clock_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__clock_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__clock_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__comm_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__comm_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__comm_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__comm_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__crc_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__crc_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__crc_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__crc_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__data__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__data__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__data__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__data__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__data__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__data__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__data__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__data__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dcs__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dcs__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dcs__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dcs__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dcs__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dcs__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dcs__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dcs__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dir_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dir_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dir_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dir_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__doublyLinkedList_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__doublyLinkedList_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__doublyLinkedList_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__doublyLinkedList_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dualsys__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dualsys__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dualsys__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dualsys__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dualsys__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dualsys__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__dualsys__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__dualsys__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ecall__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ecall__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ecall__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ecall__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ecall__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ecall__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ecall__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ecall__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__eventLoop_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__eventLoop_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__eventLoop_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__eventLoop_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fdMonitor_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fdMonitor_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fdMonitor_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fdMonitor_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fd_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fd_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fd_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fd_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fd__linux_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fd__linux_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fd__linux_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fd__linux_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fileLock_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fileLock_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fileLock_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fileLock_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__flash__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__flash__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__flash__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__flash__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__flash__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__flash__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__flash__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__flash__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__framework__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__framework__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__framework__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__framework__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__framework__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__framework__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__framework__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__framework__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fs_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fs_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fs__linux_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fs__linux_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fwupdate__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fwupdate__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fwupdate__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fwupdate__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fwupdate__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fwupdate__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__fwupdate__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__fwupdate__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gnss__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gnss__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gnss__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gnss__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gnss__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gnss__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gnss__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gnss__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpioCfg__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpioCfg__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpioCfg__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpioCfg__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpioCfg__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpioCfg__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpioCfg__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpioCfg__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpio__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpio__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpio__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpio__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpio__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpio__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__gpio__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__gpio__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__hashmap_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__hashmap_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__hashmap_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__hashmap_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__hex_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__hex_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__hex_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__hex_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCbc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCbc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCbc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCbc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCbc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCbc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCbc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCbc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCmac__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCmac__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCmac__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCmac__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCmac__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCmac__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesCmac__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesCmac__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesGcm__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesGcm__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesGcm__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesGcm__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesGcm__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesGcm__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesGcm__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesGcm__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesMilenage__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesMilenage__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesMilenage__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesMilenage__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesMilenage__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesMilenage__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__aesMilenage__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__aesMilenage__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__ecc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__ecc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__ecc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__ecc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__ecc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__ecc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__ecc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__ecc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__hmac__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__hmac__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__hmac__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__hmac__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__hmac__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__hmac__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__hmac__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__hmac__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__rsa__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__rsa__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__rsa__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__rsa__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__rsa__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__rsa__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__iks__rsa__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__iks__rsa__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__info__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__info__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__info__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__info__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__info__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__info__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__info__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__info__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__instStat__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__instStat__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__instStat__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__instStat__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__instStat__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__instStat__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__instStat__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__instStat__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ips__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ips__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ips__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ips__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ips__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ips__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ips__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ips__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__json_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__json_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__json_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__json_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__kernelModule__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__kernelModule__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__kernelModule__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__kernelModule__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__kernelModule__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__kernelModule__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__kernelModule__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__kernelModule__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__limit__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__limit__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__limit__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__limit__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__limit__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__limit__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__limit__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__limit__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__log_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__log_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__log_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__log_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__lpt__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__lpt__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__lpt__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__lpt__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__lpt__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__lpt__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__lpt__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__lpt__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mcc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mcc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mcc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mcc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mcc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mcc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mcc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mcc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdmDefs__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdmDefs__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdmDefs__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdmDefs__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdmDefs__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdmDefs__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mdmDefs__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mdmDefs__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mem_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mem_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mem_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mem_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__messaging_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__messaging_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__messaging_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__messaging_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mrc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mrc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mrc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mrc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mrc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mrc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mrc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mrc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mutex_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mutex_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__mutex_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__mutex_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__net__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__net__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__net__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__net__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__net__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__net__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__net__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__net__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pack_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pack_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pathIter_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pathIter_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pathIter_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pathIter_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__path_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__path_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__path_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__path_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pm__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pm__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pm__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pm__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pm__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pm__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pm__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pm__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__port__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__port__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__port__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__port__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__port__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__port__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__port__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__port__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__posCtrl__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__posCtrl__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__posCtrl__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__posCtrl__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__posCtrl__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__posCtrl__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__posCtrl__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__posCtrl__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pos__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pos__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pos__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pos__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pos__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pos__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__pos__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__pos__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__print_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__print_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__print_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__print_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__process_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__process_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__process_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__process_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rand_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rand_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rand_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rand_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__redBlackTree_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__redBlackTree_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__redBlackTree_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__redBlackTree_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__riPin__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__riPin__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__riPin__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__riPin__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__riPin__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__riPin__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__riPin__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__riPin__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rsim__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rsim__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rsim__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rsim__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rsim__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rsim__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rsim__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rsim__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rtc__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rtc__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rtc__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rtc__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rtc__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rtc__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__rtc__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__rtc__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__safeRef_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__safeRef_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__safeRef_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__safeRef_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__secStore__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__secStore__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__secStore__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__secStore__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__secStore__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__secStore__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__secStore__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__secStore__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__semaphore_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__semaphore_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__semaphore_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__semaphore_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__signals_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__signals_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__signals_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__signals_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sim__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sim__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sim__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sim__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sim__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sim__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sim__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sim__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__singlyLinkedList_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__singlyLinkedList_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__singlyLinkedList_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__singlyLinkedList_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__smsInbox1__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__smsInbox1__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__smsInbox1__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__smsInbox1__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__smsInbox1__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__smsInbox1__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__smsInbox1__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__smsInbox1__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sms__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sms__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sms__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sms__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sms__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sms__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__sms__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__sms__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__spi__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__spi__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__spi__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__spi__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__spi__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__spi__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__spi__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__spi__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__temp__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__temp__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__temp__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__temp__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__temp__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__temp__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__temp__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__temp__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__test_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__test_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__test_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__test_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__thread_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__thread_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__thread_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__thread_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__thread__linux_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__thread__linux_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__timer_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__timer_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__timer_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__timer_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__tty_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__tty_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__tty_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__tty_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ulpm__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ulpm__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ulpm__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ulpm__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ulpm__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ulpm__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__ulpm__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__ulpm__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__updateCtrl__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__updateCtrl__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__updateCtrl__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__updateCtrl__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__updateCtrl__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__updateCtrl__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__updateCtrl__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__updateCtrl__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__update__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__update__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__update__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__update__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__update__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__update__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__update__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__update__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__utf8_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__utf8_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__utf8_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__utf8_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__voicecall__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__voicecall__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__voicecall__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__voicecall__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__voicecall__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__voicecall__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__voicecall__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__voicecall__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wdog__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wdog__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wdog__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wdog__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wdog__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wdog__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wdog__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wdog__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiAp__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiAp__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiAp__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiAp__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiAp__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiAp__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiAp__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiAp__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiClient__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiClient__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiClient__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiClient__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiClient__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiClient__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiClient__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiClient__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiDefs__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiDefs__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiDefs__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiDefs__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiDefs__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiDefs__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/le__wifiDefs__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\le__wifiDefs__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/lwm2m_communication.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\lwm2m_communication.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/migrationGuide.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\migrationGuide.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraints.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraints.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsAdc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsAdc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsAntenna.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsAntenna.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsAtCmd.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsAtCmd.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsAudio.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsAudio.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsDualSys.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsDualSys.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsFlash.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsFlash.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsGnss.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsGnss.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsInfo.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsInfo.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsMdc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsMdc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsmdmCfg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsmdmCfg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsPositioning.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsPositioning.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsReadOnly.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsReadOnly.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsSecStorage.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsSecStorage.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsSim.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsSim.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsSpecificErrorCodes.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsSpecificErrorCodes.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsStk.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsStk.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/platformConstraintsTemperature.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\platformConstraintsTemperature.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/raspbianMain.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\raspbianMain.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/resources/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://docs.legato.io/latest/resources/css/jqtree-circle.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\css\jqtree-circle.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/resources/css/jqtree.css
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\css\jqtree.css
+Content Type: text/css
+
+Uri: https://docs.legato.io/latest/resources/css/perfect-scrollbar.min.css
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\css\perfect-scrollbar.min.css
+Content Type: text/css
+
+Uri: https://docs.legato.io/latest/resources/css/style.css
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\css\style.css
+Content Type: text/css
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://docs.legato.io/latest/resources/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://docs.legato.io/latest/resources/images/legato.ico
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\images\legato.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://docs.legato.io/latest/resources/images/legato_logo.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\images\legato_logo.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/resources/images/spinny_orangefg.gif
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\images\spinny_orangefg.gif
+Content Type: image/gif
+
+Uri: https://docs.legato.io/latest/resources/js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://docs.legato.io/latest/resources/js/main.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\js\main.js
+Content Type: application/javascript
+
+Uri: https://docs.legato.io/latest/resources/js/perfect-scrollbar.jquery.min.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\js\perfect-scrollbar.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://docs.legato.io/latest/resources/js/tree.jquery.js
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\resources\js\tree.jquery.js
+Content Type: application/javascript
+
+Uri: https://docs.legato.io/latest/sampleApps.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_AV.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_AV.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_AVAssetData.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_AVAssetData.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_commandLine.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_commandLine.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_eCall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_eCall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_fwupdateDownloader.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_fwupdateDownloader.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_fwupdateDownloaderResume.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_fwupdateDownloaderResume.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_gpioCf3.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_gpioCf3.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_gpioCf3SS.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_gpioCf3SS.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_gpsApp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_gpsApp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_helloIpc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_helloIpc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_helloRpc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_helloRpc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_helloWorld.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_helloWorld.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_httpGet.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_httpGet.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_httpServer.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_httpServer.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_karaoke.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_karaoke.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_legacy.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_legacy.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_lowPower.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_lowPower.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_modemDemo.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_modemDemo.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_shellPiping.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_shellPiping.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_sms.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_sms.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_streamMedia.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_streamMedia.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/sampleApps_voiceCallApp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\sampleApps_voiceCallApp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/secStoreAdmin__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\secStoreAdmin__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/secStoreAdmin__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\secStoreAdmin__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/secStoreAdmin__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\secStoreAdmin__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/secStoreAdmin__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\secStoreAdmin__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/streamMedia__common_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\streamMedia__common_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/streamMedia__common_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\streamMedia__common_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/streamMedia__interface_8h.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\streamMedia__interface_8h.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/streamMedia__interface_8h_source.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\streamMedia__interface_8h_source.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__clkSync__ClockTime__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__clkSync__ClockTime__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__clk__Time__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__clk__Time__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__dcs__ChannelInfo__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__dcs__ChannelInfo__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__dls__Link__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__dls__Link__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__dls__List__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__dls__List__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__hashmap__Entry__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__hashmap__Entry__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__hashmap__HashmapIt__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__hashmap__HashmapIt__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__hashmap__Hashmap__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__hashmap__Hashmap__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__mdc__ProfileInfo__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__mdc__ProfileInfo__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__mem__PoolStats__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__mem__PoolStats__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__mem__Pool__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__mem__Pool__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__mrc__NetRegRejectInd__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__mrc__NetRegRejectInd__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__msg__LocalMessage__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__msg__LocalMessage__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__msg__LocalReceiver__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__msg__LocalReceiver__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__msg__LocalService__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__msg__LocalService__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__msg__Message.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__msg__Message.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__msg__Service.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__msg__Service.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__net__DefaultGatewayAddresses__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__net__DefaultGatewayAddresses__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__net__DnsServerAddresses__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__net__DnsServerAddresses__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__proc__Parameters__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__proc__Parameters__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__rbtree__Node__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__rbtree__Node__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__rbtree__Tree__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__rbtree__Tree__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__ref__Map.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__ref__Map.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__sls__Link__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__sls__Link__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__sls__List__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__sls__List__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/structle__wifiClient__EventInd__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\structle__wifiClient__EventInd__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/struct__le__cdata__MapEntry__t.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\struct__le__cdata__MapEntry__t.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tocs/About.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/About_Contribute_Code.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About_Contribute_Code.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/About_Legato.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About_Legato.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/About_Licenses.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About_Licenses.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/About_LTS_Releases_and_Support_Policy.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About_LTS_Releases_and_Support_Policy.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/About_Release_Notes.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\About_Release_Notes.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_API_Guides.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_API_Guides.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_Concepts.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_Concepts.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_Experimental_Features.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_Experimental_Features.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_Get_Started.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_Get_Started.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_How_To.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_How_To.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Apps_Tools.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Apps_Tools.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Platform.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Platform.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Platform_Configure_Raspberry_Pi.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Platform_Configure_Raspberry_Pi.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Platform_Configure_SWI_Target.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Platform_Configure_SWI_Target.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Build_Platform_Platform_Constraints.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Build_Platform_Platform_Constraints.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_common_interface.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_common_interface.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_defn_interface.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_defn_interface.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_example_interface.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_example_interface.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_legato.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_legato.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_legato_linux.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_legato_linux.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_apiFeatures.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_apiFeatures.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_args.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_args.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_atomFile.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_atomFile.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_atomic.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_atomic.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_backtrace.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_backtrace.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_base64.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_base64.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_basics.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_basics.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_cdata.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_cdata.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_clock.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_clock.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_comm.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_comm.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_crc.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_crc.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_dir.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_dir.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_doublyLinkedList.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_doublyLinkedList.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_eventLoop.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_eventLoop.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fd.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fd.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fdMonitor.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fdMonitor.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fd_linux.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fd_linux.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fileLock.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fileLock.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fs.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fs.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_fs_linux.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_fs_linux.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_hashmap.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_hashmap.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_hex.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_hex.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_json.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_json.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_log.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_log.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_mem.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_mem.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_messaging.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_messaging.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_mutex.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_mutex.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_pack.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_pack.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_path.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_path.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_pathIter.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_pathIter.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_print.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_print.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_process.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_process.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_rand.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_rand.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_redBlackTree.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_redBlackTree.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_safeRef.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_safeRef.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_semaphore.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_semaphore.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_signals.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_signals.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_singlyLinkedList.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_singlyLinkedList.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_test.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_test.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_thread.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_thread.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_thread_linux.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_thread_linux.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_timer.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_timer.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_tty.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_tty.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tocs/Reference_le_utf8.h.json
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tocs\Reference_le_utf8.h.json
+Content Type: application/json
+
+Uri: https://docs.legato.io/latest/tools.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsBuild.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsBuild.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsGitHub.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsGitHub.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_app.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_app.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_av-pack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_av-pack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_checkpa.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_checkpa.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_configtargetssh.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_configtargetssh.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_createsdk.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_createsdk.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_dump2sym.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_dump2sym.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_fwupdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_fwupdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_gettargettype.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_gettargettype.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_instapp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_instapp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_instlegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_instlegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_instsys.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_instsys.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_kconfig2dox.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_kconfig2dox.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_legato-install.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_legato-install.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_legato-qemu.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_legato-qemu.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_mklegatoimg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_mklegatoimg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_mklegatotreero.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_mklegatotreero.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_releaselegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_releaselegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_remoteDebug.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_remoteDebug.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_rename-hidden-symbols.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_rename-hidden-symbols.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_sbhelper.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_sbhelper.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_security-pack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_security-pack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_setname.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_setname.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_settime.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_settime.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_settz.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_settz.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_simu.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_simu.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_splitdebug.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_splitdebug.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_startlegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_startlegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_stoplegato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_stoplegato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_systocwe.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_systocwe.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_systoimg.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_systoimg.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_update-pack.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_update-pack.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_update-util.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_update-util.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsHost_update.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsHost_update.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsKconfig.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsKconfig.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeaf.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeaf.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafColors.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafColors.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafConfig.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafConfig.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafEnv.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafEnv.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafGetsrc.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafGetsrc.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafProfile.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafProfile.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafRemote.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafRemote.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafSearch.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafSearch.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafSelect.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafSelect.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafSetup.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafSetup.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafShell.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafShell.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafStatus.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafStatus.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsLeafUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsLeafUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTargetMgmt.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTargetMgmt.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_app.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_app.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_cm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_cm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_config.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_config.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_configEcm.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_configEcm.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_fwUpdate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_fwUpdate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_gnss.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_gnss.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_inspect.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_inspect.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_kmod.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_kmod.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_legato.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_legato.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_log.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_log.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_pmTool.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_pmTool.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_sbtrace.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_sbtrace.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_sdir.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_sdir.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_setNet.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_setNet.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_uartMode.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_uartMode.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/toolsTarget_update.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\toolsTarget_update.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCode.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCode.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeDefinition.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeDefinition.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeDefinition_xdefMenu.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeDefinition_xdefMenu.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/tools_vsCodeInstall.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeInstall.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeLeaf.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeLeaf.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeMigrate.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeMigrate.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeMigrate_AddApp.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeMigrate_AddApp.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/tools_vsCodeMigrate_ModifyApp.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeMigrate_ModifyApp.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/tools_vsCodeSystem.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeSystem.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/tools_vsCodeTarget.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\tools_vsCodeTarget.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/updateApi.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\updateApi.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_deviceMgmt.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_deviceMgmt.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_deviceMgmtMenu.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_deviceMgmtMenu.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_devStudioTimeline.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_devStudioTimeline.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_FileExpIcon.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_FileExpIcon.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_leafAvailable.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_leafAvailable.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_leafFilter.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_leafFilter.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_leafIcon.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_leafIcon.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_leafProfile.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_leafProfile.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_leafSupportPkg.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_leafSupportPkg.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_legatoIcon.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_legatoIcon.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_legatoSystemView.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_legatoSystemView.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_logs.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_logs.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_newApp.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_newApp.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/vsCode_sdefMsg.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\vsCode_sdefMsg.png
+Content Type: image/png
+
+Uri: https://docs.legato.io/latest/wifi_toolsTarget_wifi.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\wifi_toolsTarget_wifi.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/wifi_wifiap_testapp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\wifi_wifiap_testapp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/wifi_wificlient_testapp.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\wifi_wificlient_testapp.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/wifi_wifiwebAp_sample.html
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\wifi_wifiwebAp_sample.html
+Content Type: text/html
+
+Uri: https://docs.legato.io/latest/yellow_dot.png
+File Name: C:\Downloaded Web Sites\docs.legato.io\latest\yellow_dot.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800
+File Name: C:\Downloaded Web Sites\docs.legato.io\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono:300,300italic,400,400italic,500,500italic,
+File Name: C:\Downloaded Web Sites\docs.legato.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\docs.legato.io\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://raw.githubusercontent.com/legatoproject/legato-3rdParty-kconfig-frontends/v4.11.0.1/docs/kconfig-language.txt
+File Name: C:\Downloaded Web Sites\docs.legato.io\legatoproject\legato-3rdParty-kconfig-frontends\v4.11.0.1\docs\kconfig-language.txt
+Content Type: text/plain
+
+Uri: https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=158740
+File Name: C:\Downloaded Web Sites\docs.legato.io\DocMan\handlers\DownloadDoc.ashx
+Content Type: application/unknown
+
+Uri: https://www.kernel.org/doc/Documentation/security/Smack.txt
+File Name: C:\Downloaded Web Sites\docs.legato.io\doc\Documentation\security\Smack.txt
+Content Type: text/plain
+
